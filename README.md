@@ -17,7 +17,7 @@ Guide Français :
 Ré-encodez votre "inject.bin" avec "fr.json" sur "https://hak5.org/pages/ducky-encoder/".
 
 --------------------------------------------------------------------------------------
-English Guide:
+English Guide :
 
 1 - Connect your Micro-SD to your device using the adapter supplied with your Rubber Ducky.<br>
 2 - Modify the last lines of "Lesio's Ducky - French Reverse Shell.txt" and encode your file with "gb.json" on "https://hak5.org/pages/ducky-encoder/".<br>
