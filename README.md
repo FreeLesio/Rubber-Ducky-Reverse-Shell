@@ -1,7 +1,7 @@
 # Rubber-Ducky-Reverse-Shell
 Fast &amp; Silent Script For Rubber Ducky To Inject Reverse Shell
 
---------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 **Guide Français :**
 
 1 - Connectez votre Micro-SD à votre appareil via l'adaptateur fourni avec votre Rubber Ducky.<br>
@@ -17,7 +17,7 @@ Fast &amp; Silent Script For Rubber Ducky To Inject Reverse Shell
 Ré-encodez votre `inject.bin` avec `fr.json` sur "https://hak5.org/pages/ducky-encoder/".
 
 > Je ne suis en aucun cas responsable de vos actions avec ce programme. Ce programme vous est partagé dans un but éducatif. Utilisez le avec précaution et ne l'utilisez pas à des fins malveillantes.
---------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 **English Guide :**
 
 1 - Connect your Micro-SD to your device using the adapter supplied with your Rubber Ducky.<br>
